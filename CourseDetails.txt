@@ -1,0 +1,13 @@
+Manual Testing
+SQL
+MySql
+C#
+Selenium
+TestNG
+Cucumber
+Postman
+RestAssured
+GitExtension
+GitHub
+Jenkins
+Jira
